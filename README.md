@@ -18,8 +18,8 @@ Ensure you have Python installed on your system. You can download it from the [o
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone git@github.com:svmypaul/streamlit-to-exe.git
+   cd streamlit-to-exe
    ```
 
 2. **Create and Activate a Virtual Environment**
@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
 ```
 
-Make sure to replace placeholders like `<repository-url>` and `<repository-directory>` with your actual repository URL and directory name.
+Make sure to replace placeholders like `git@github.com:svmypaul/streamlit-to-exe.git` and `streamlit-to-exe` with your actual repository URL and directory name.
