@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please contact [your-email@example.com](mailto:svmypaul.cob@gamil.com).
 ```
 
 Make sure to replace placeholders like `git@github.com:svmypaul/streamlit-to-exe.git` and `streamlit-to-exe` with your actual repository URL and directory name.
