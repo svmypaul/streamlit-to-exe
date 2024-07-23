@@ -15,7 +15,7 @@ Ensure you have Python installed on your system. You can download it from the [o
 1. **Clone the Repository**
 
    ```bash
-   git clone git@github.com:svmypaul/streamlit-to-exe.git
+   git clone https://github.com/svmypaul/streamlit-to-exe.git
    cd streamlit-to-exe
    ```
 
