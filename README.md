@@ -1,7 +1,4 @@
-Here's a detailed `README.md` file for your project, including installation instructions and steps to create an executable file with PyInstaller:
-
-
-# Project Name
+# Streamlit To EXE
 
 ## Overview
 
